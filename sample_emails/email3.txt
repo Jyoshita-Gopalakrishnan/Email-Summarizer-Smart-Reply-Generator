@@ -1,0 +1,19 @@
+From: raj.kapoor@example.com  
+To: careers@techinnovate.ai  
+Date: May 9, 2025
+
+Dear Hiring Manager,
+
+I hope this message finds you well. I am writing to express my keen interest in the AI/ML Research Intern position at TechInnovate AI, as advertised on your careers page. With a strong foundation in machine learning, deep learning, and natural language processing, I am enthusiastic about the opportunity to contribute to your team’s cutting-edge research in applied AI.
+
+Currently, I am pursuing my final year of a B.Tech in Computer Science at the Indian Institute of Technology, Kanpur, where I’ve been deeply involved in projects involving Transformer architectures, Reinforcement Learning, and scalable model deployment using AWS. One of my recent projects included designing a multilingual text summarization pipeline using Hugging Face Transformers, which improved content readability by 65%.
+
+What particularly excites me about TechInnovate is your commitment to solving real-world problems through responsible and ethical AI. I am confident that my technical skills, combined with my research-oriented mindset and ability to collaborate across disciplines, make me a strong candidate for this internship.
+
+I have attached my resume and portfolio for your consideration. I would be honored to further discuss how I can contribute to your ongoing projects. Thank you for your time and consideration.
+
+Warm regards,  
+Raj Kapoor  
+raj.kapoor@example.com  
++91-9876543210  
+LinkedIn: linkedin.com/in/rajkapoor  
