@@ -29,7 +29,9 @@ Git & GitHub for version control
 1. Clone the repository
 
 git clone https://github.com/Jyoshita-Gopalakrishnan/Email-Summarizer-Smart-Reply-Generator.git
+
 cd Email-Summarizer-Smart-Reply-Generator
+
 2. Install the required dependencies
 Make sure you have Python 3.7+ installed. Then, install the required packages using pip:
 
